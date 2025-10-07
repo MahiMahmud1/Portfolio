@@ -7,8 +7,6 @@
   - Contributions: Model Training ; Data preprocessing ; Backend Development.
 - **[PlantVerse](https://github.com/albidnawar/PlantVerse-project.git)** 
   - Contributions: Database Handling ; Backend Development.
-- **[PlantVerse](https://github.com/albidnawar/PlantVerse-project.git)** 
-  - Contributions: Model Training ; Data preprocessing ; Backend Development.
 - **[AttendEase](https://github.com/iiapurbo/AttendEase.git)** 
   - Contributions: Backend Development.
 - **[Chess](https://github.com/MahiMahmud1/Chess.git)** 
