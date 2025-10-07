@@ -2,7 +2,7 @@
 
 ## Team Projects
 - **[VirtualExam](https://github.com/EmtiazMahamud/CSE327-VirtualExam.git)** 
-    - Contributions: Built dashboard UI, integrated Firebase auth, and worked on API design.
+    - Contributions: Developed Question, Announcemnt, Answer, Feedback parts
 - **[BodyMatrics ML](https://github.com/MahiMahmud1/Machine-Learning.git)** 
   - Contributions: Model Training ; Data preprocessing ; Backend Development.
 - **[PlantVerse](https://github.com/albidnawar/PlantVerse-project.git)** 
